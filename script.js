@@ -36,9 +36,6 @@ const mobileMenuButton = document.getElementById('mobile-menu-button');
             });
         });
         
-        // Set current year in footer
-        document.getElementById('year').textContent = new Date().getFullYear();
-        
         // Initialize particles.js
         document.addEventListener('DOMContentLoaded', function() {
             particlesJS('particles-js', {
