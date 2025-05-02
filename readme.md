@@ -30,7 +30,7 @@ Nele, você encontrará:
 ## 🚀 Como Visualizar
 
 Você pode acessar o portfólio publicado em:  
-[https://meu-portifolio-gutsnow.vercel.app](https://meu-portifolio-gutsnow.vercel.app)
+[https://portfolio-gustavo-neves.vercel.app/](https://portfolio-gustavo-neves.vercel.app/)
 
 ## 📩 Contato
 
